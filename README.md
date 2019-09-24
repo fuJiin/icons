@@ -1,1 +1,1 @@
-# icons
+Collection of icons I use.
